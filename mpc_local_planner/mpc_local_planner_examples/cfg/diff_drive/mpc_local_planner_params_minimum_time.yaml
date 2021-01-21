@@ -88,7 +88,7 @@ MpcLocalPlannerROS:
   solver:
     type: "ipopt"
     ipopt:
-      iterations: 100
+      iterations: 20
       max_cpu_time: -1.0
       ipopt_numeric_options:
         tol: 1e-4
