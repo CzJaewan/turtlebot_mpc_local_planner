@@ -9,6 +9,6 @@ roslaunch turtlebot3_navigation turtlebot3_navigation_mpc_launch
 ```
 
 ## references
-https://github.com/ROBOTIS-GIT/turtlebot3_simulations
-https://github.com/ROBOTIS-GIT/turtlebot3
+https://github.com/ROBOTIS-GIT/turtlebot3_simulations \\
+https://github.com/ROBOTIS-GIT/turtlebot3 \\
 https://github.com/rst-tu-dortmund/mpc_local_planner
